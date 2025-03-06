@@ -11,5 +11,16 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PxHA-source/hexlet-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PxHA-source/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/PxHA-source/hexlet-js#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }

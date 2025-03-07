@@ -1,5 +1,5 @@
-import _ from "lodash";
+import _ from 'lodash';
 
-export const getLastElement = () => {
-return _.last(["one", "two"]);
-};
+const getLastElement = () => _.last(['one', 'two']);
+
+export default getLastElement;
